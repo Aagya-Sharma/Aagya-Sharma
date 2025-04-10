@@ -1,10 +1,118 @@
-<h1 align="center">Hi 👋, I'm Aagya Sharma</h1>
-<h3 align="center">Innovative and proactive Software Developer with over a year of experience in software development, specializing in web and mobile application projects. Passionate about contributing skills to a dynamic team to drive innovative solutions. Dedicated to continuous learning and collaboration to create impactful digital solutions.</h3>
+# 👩‍💻 Aagya Sharma
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aagya-sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aagya sharma" height="30" width="40" /></a>
+**Email:** [sharmaaagya7@gmail.com](mailto:sharmaaagya7@gmail.com)  
+**Location:** London (Available for Hiring)
+
+---
+
+### 🧠 About Me
+
+I'm **Aagya Sharma**, an innovative and proactive **Software Developer** with over a year of professional experience in building scalable web and mobile applications. I am passionate about solving real-world problems through technology and mentoring others in their learning journey. My technical foundation is balanced by a strong commitment to teaching and open collaboration.
+
+---
+
+### 🛠️ Technologies & Tools
+
+#### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat-square)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
+![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square)
+
+#### Database
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+
+#### Others
+![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat-square)
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chart.js&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+
+---
+
+### 👩‍🏫 Teaching Experience
+
+**Lecturer & Academic Tutor** — *Herald College Kathmandu*  
+*Nov 2022 – Present*  
+> Teaching Java, Python, and helping students understand fundamental programming concepts. Encouraging critical thinking and project-based learning.
+
+---
+
+### 💼 Work Experience
+
+**Software Engineer** — *Arbyte Solutions*  
+*May 2022 – Present*  
+- Developed React Native mobile app for NEPSE portfolio and news tracker
+- Maintained Shopify e-commerce site and improved performance
+- Built custom D3.js visualisations for clients
+
+**Software Engineer (Part-Time)** — *Periwin Solutions*  
+*Feb 2025 – Present*  
+- Built high-performance apps using React.js, Next.js
+- Integrated REST/GraphQL APIs, SSR, authentication
+- Developed dashboards with WebSocket + Chart.js
+
+---
+
+### 🎓 Education
+
+- **BEng in Computer Engineering**, Himalaya College of Engineering (Tribhuvan University), *Graduated with Distinction*  
+- **+2 Science**, Omega Int'l School — *80%*  
+- **SLC**, United School
+
+---
+
+### 🤝 Volunteer Work
+
+**STEM Mentor** — *Smart Cheli*  
+*May 2024 – Present*  
+> Mentoring young women pursuing STEM careers through weekly virtual & in-person guidance.
+
+---
+
+### 🏅 Awards & Honours
+
+- 🏆 *Best-Rated Academic Tutor*, Herald College Kathmandu, 2022
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aagya-Sharma&show_icons=true&theme=tokyonight" alt="Aagya's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aagya-Sharma&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aagya-Sharma&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aagya%20Sharma-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/aagya-sharma-8bb24b1aa/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Aagya%20Sharma-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/sharma.aagya.5)  
+[![Instagram](https://img.shields.io/badge/Instagram-@sharmaaagya7-E4405F?logo=instagram&style=for-the-badge)](https://www.instagram.com/sharmaaagya7)
+
+---
+
+Thank you for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
